@@ -1,16 +1,16 @@
 * {  
-background-color: gray;
+background-color: black;
 margin: 0;
 border: 0;
 font-family: monospace; 
 }
 .main_1 {
-font-size: 52px;
+font-size: 80px;
 background-color: lightblue;
-color: lightgray;
+color: darkgren;
 }
 .link_1 {
-color: orange; 
+color: black; 
 }
 .image_1 {
 width: 300px;
